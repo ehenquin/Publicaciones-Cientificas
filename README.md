@@ -1,2 +1,2 @@
-# Publicaciones_Cient-ficas
+# Publicaciones-Cientificas
 Html con mis papers y publicaciones
